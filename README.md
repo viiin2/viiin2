@@ -18,9 +18,3 @@
 - **프런트엔드:** React, Next.js, Three.js
 - **서버·데이터:** Node.js, Express, SQLite, Supabase
 - **AI:** OpenAI API, Gemini API, YOLOv8
-
-## 연구와 교육
-
-- 유해 조류 객체 탐지 연구로 학회 논문 3편을 발표했습니다(1저자 2편).
-- 포스코 K 뉴딜 아카데미를 수료했습니다.
-- 안동대학교 컴퓨터공학과를 졸업하고 영남대학교 AI/SW학과를 복수전공했습니다.
